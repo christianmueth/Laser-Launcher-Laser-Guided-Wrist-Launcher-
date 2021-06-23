@@ -3,6 +3,8 @@ Laser Guided Wrist Launcher, with rubber band
 Uses a laser diode connected to a 6V battery pack, and a rubber band connected to a firing pin. Custom design, 3D printed
 
 VIDEO:
+https://drive.google.com/file/d/1PGbLZDaB_4c_KXejRSHrDG373LmQBx6I/view?usp=sharing
+
 
 IMAGE:
 
