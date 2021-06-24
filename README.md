@@ -9,4 +9,3 @@ https://drive.google.com/file/d/1PGbLZDaB_4c_KXejRSHrDG373LmQBx6I/view?usp=shari
 IMAGE:
 
 ![image](https://user-images.githubusercontent.com/59476460/123041342-2ce1a180-d3c3-11eb-9161-829a0d05f000.png)
-
